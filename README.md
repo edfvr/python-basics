@@ -88,9 +88,12 @@ check [square.py](functions/square.py)
 Python is an object-oriented programming lang.
 - Objects have properties and methods(functions inherent to the object).
 - methods are defined inside the object
-- objects aren't passed into a function
-`function(object)`
+- objects aren't passed into a function;
+
+~~`function(object)`~~
+
 rather methods are called on objects
+
 `object.method()`
 - the `class` keyword is used to define a type of object
 - Classes require an initialization function
